@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   </title>
   </head>
-
+<!-- esto es una prueba
 <body>
   <h1>Ejemplo de recogida de datos</h1>
 
